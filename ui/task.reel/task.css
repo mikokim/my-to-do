@@ -1,5 +1,2 @@
-.Task {
+.Task.completed {opacity: 0.2;}
 
-}
-
-Task.completed {opacity: 0.2;}
